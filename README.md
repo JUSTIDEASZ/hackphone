@@ -109,16 +109,16 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git cloneV https://github.com/JUSTIDEASZ/hackphone.git
 ```
 ```
 pip install python-nmap
 ```
 ```
-cd PhoneSploit-Pro/
+cd hackphone
 ```
 ```
-python3 phonesploitpro.py
+python3 phonehack.py
 ```
 #### On Windows :
 
@@ -127,7 +127,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone [https://github.com/AzeemIdrisi/PhoneSploit-Pro.git](https://github.com/JUSTIDEASZ/hackphone.git)
+git clone https://github.com/JUSTIDEASZ/hackphone.git
 ```
 ```
 pip install python-nmap
