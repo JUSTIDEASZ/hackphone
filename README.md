@@ -127,20 +127,20 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone [https://github.com/AzeemIdrisi/PhoneSploit-Pro.git](https://github.com/JUSTIDEASZ/hackphone.git)
 ```
 ```
 pip install python-nmap
 ```
 ```
-cd PhoneSploit-Pro/
+cd hackphone/
 ```
 1. Download and extract latest `platform-tools` from [here](https://developer.android.com/studio/releases/platform-tools.html#downloads).
 
 2. Copy all files from the extracted `platform-tools` or `adb` directory to __PhoneSploit-Pro__ directory and then run :
 
 ```
-python phonesploitpro.py
+python phonehack.py
 ```
 
 
@@ -189,7 +189,7 @@ adb tcpip 5555
 7. Now you can connect the Android Phone with the computer over Wi-Fi using `adb`.
 8. Disconnect the USB cable.
 9. Go to `Settings` >  `About Phone` > `Status` > `IP address` and note the phone's `IP Address`.
-10. Run __PhoneSploit Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
+10. Run Phonehack Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
 
 
 
@@ -350,21 +350,4 @@ pkg install nmap
 * It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 
 
-# Developer
 
-<a href="https://github.com/azeemidrisi/">
-<!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
-
-</a>
-
-
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
- 
-
-# Support Me
-If you like my work you can support me via :
-
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
