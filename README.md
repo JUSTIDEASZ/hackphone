@@ -97,7 +97,7 @@ The goal of this project is to make penetration testing on Android devices easy.
 * [`scrcpy`](https://github.com/Genymobile/scrcpy) : Scrcpy
 * [`nmap`](https://nmap.org/) : Nmap
 
-# Run PhoneSploit Pro 
+# Run Phonehack
 
 __PhoneSploit Pro__ does not need any installation and runs directly using `python3`
 
